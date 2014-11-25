@@ -1,0 +1,17 @@
+Step 1: 1000
++100
+1000*0.005 = 5
+1000+100+5
+
+1000
+-200
+1000*0.005 = 5
+1000 -200 +5
+
+Step 2+3:
+calculateInterest
+if working newTotal = oldTotal + savings + calculateInterest
+if retired newTotal = oldTotal + spending + calculateInterest
+
+Step 4:
+Months >= 0
