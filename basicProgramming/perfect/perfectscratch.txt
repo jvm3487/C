@@ -1,0 +1,34 @@
+Step 1 - work an example
+27
+1, 3, 9, 27
+1 + 3 + 9 =13
+not perfect
+
+Step 2 - write down exactly what you did
+listed 1 as the first number
+counted all numbers from 2 to 27-1 to see which numbers divide evenly into it
+added all of those numbers to one to get the value to check
+checked that value against the number to determine if it was perfect
+
+Step 3 - generalize
+perfectSum = 1
+check if n>1 -> if not, it is not perfect
+checked 2 to n-1 to see if they divide evenly
+if they do
+perfectSum = 1 + evenDivisor
+repeat unitl n-1 is reached
+does perfectSum = n
+if yes return 1
+if no return 0
+
+Step 4 - test
+28
+perfectSum = 1
+1 + 2 = 3
+3 + 4 = 7
+7 + 7 = 14
+14 + 14 = 28
+return 1
+
+corner cases
+n > 1 for the algorithm to function properly
