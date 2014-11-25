@@ -1,0 +1,29 @@
+Step 1 - work an example yourself
+Factor 40
+2 * 20
+2 * 2 * 10
+2 * 2 * 2 * 5
+
+Step 2 - write down exactly what you did
+Determined if 40 is prime
+If it wasn't, determined the smallest prime number that went into 40
+Determined if the remaining factor was prime
+If it wasn't determined the smallest prime number that went into 20x
+
+Step 3 - generalize
+isPrime?
+determine smallest prime number that can divide into it
+print that number followed by a space and a *
+isPrime?
+determine smallest prime number that can divide into it
+etc.
+when number isPrime -> print that number
+
+Step 4 - test
+12
+no
+2 *
+no
+2 * 2 * 3
+yes
+
