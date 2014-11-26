@@ -1,0 +1,17 @@
+Step 1-
+My name is John.
+.nhoJ si eman yM
+
+Step 2-
+I left the null operator in place
+I counted the number of characters
+I wrote the last character first
+I wrote the next to last character next
+I wrote the 3rd to last character after that
+Once I got to the beginning I stopped
+
+Step 3-
+Check if there is nothing -> return nothing
+Count the characters
+Starting with the highest character list the character
+Stop once you get to the lowest character
