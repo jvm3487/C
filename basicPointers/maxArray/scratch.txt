@@ -1,0 +1,17 @@
+Step 1 - do an example
+77, 33, 19, 99, 42, 6, 27, 4
+99
+
+Step 2 - 
+check if 77>33
+if yes -> 77 is biggest
+if no -> 33 is biggest
+check if biggest is > 19
+check if biggest is > 99
+
+Step 3 -
+check if element 1 is bigger than element 2
+assign the bigger number to biggerNumber
+check if biggerNumber is bigger than element 3
+
+repeat until reach the last step
