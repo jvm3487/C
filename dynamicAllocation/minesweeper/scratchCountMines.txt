@@ -1,0 +1,15 @@
+XXXXX
+XXXXX
+XXXXX
+XXXXX
+XXXXX
+
+corner: counted 3 squaes
+side: counted 5 squares
+middle: counted 8 squares
+
+X  X  X
+
+X  S  X
+
+X  X  X
