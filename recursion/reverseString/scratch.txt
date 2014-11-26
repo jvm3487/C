@@ -1,0 +1,24 @@
+abcde
+edcba
+
+check if a is the last character
+check if b is the last character
+check if c is the last character
+check if d is the last character
+check if e is the last character
+print e
+check if a - d is the last character
+print d
+check if a - c is the last char
+print c
+check if 
+print b
+check if 
+print a
+
+check each character if it is the last character
+print it if it is the last character
+check each character if it is the last character
+etc
+
+ewruqeworuewoiruureqwrioqewrewuroqewiruqewoiruqewoifjlskadvdsfjadsklfjladskfjadsklfjcadslkfmaskm,.dfmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmewruqeworuewoiruureqwrioqewrewuroqewiruqewoiruqewoifjlskadvdsfjadsklfjladskfjadsklfjcadslkfmaskm,.dfmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmewruqeworuewoiruureqwrioqewrewuroqewiruqewoiruqewoifjlskadvdsfjadsklfjladskfjadsklfjcadslkfmaskm,.dfmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
