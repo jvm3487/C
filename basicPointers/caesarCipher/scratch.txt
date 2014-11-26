@@ -1,0 +1,22 @@
+Step 1 -
+f = 2
+s = 2
+j = 3
+c = 1
+r = 1
+u = 2
+q = 1
+t = 1
+k = 1
+y = 2
+m = 1
+n = 1
+z = 1
+
+j is e
+
+Step 3 -
+Initialized an array for all 26 letters in the alphabet
+Looked at each letter in the sequence and added one to that element of the array
+Looked at which element contained the largest value
+Outputed that as e 
